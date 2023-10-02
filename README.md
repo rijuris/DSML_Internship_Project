@@ -9,6 +9,8 @@ Exploratory Data Analysis
 Customer Segmentation
 Results and Interpretation
 Usage
+
+
 Overview
 This project focuses on customer behavior analysis and segmentation for campaign acceptance. The goal is to help a company understand and classify customer responses to marketing campaigns and create targeted marketing strategies.
 
