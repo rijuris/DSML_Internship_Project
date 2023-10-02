@@ -49,7 +49,7 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details. Copyright © [rijuris]
+This project is licensed under the MIT License - see the LICENSE file for details. Copyright ©rijuris
 
 ## Acknowledgments
 
