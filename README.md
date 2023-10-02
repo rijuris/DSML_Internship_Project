@@ -2,13 +2,13 @@
 
 Table of Contents
 
-- **Overview
-- **Data Understanding
-- **Data Preparation
-- **Exploratory Data Analysis
-- **Customer Segmentation
-- **Results and Interpretation
-- **Usage
+- Overview
+- Data Understanding
+- Data Preparation
+- Exploratory Data Analysis
+- Customer Segmentation
+- Results and Interpretation
+- Usage
 
 
 
